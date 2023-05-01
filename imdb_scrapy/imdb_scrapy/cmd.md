@@ -1,0 +1,1 @@
+scrapy crawl imdbChor -O imdb_scrapped.csv
